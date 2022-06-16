@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 terminal_size = "0.1.8"
-nalgebra = "0.18.1"
+nalgebra = "*"
